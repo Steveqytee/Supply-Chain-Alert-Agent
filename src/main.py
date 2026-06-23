@@ -13,7 +13,7 @@ anomalies = df[(df['total_amount'] > 5000) | (df['stock_level'] < 5)].copy()
 anomalies.to_json('flagged_orders.json', orient='records', indent=4)
 
 
-n8n_url = "https://stevetee.app.n8n.cloud/webhook-test/3e64fee6-9188-4710-a9f5-efac11fa1040"
+n8n_url = "urn8n webhook_url"
 
 # data create
 data_to_send = {"status": "success", "message": "test start"}
