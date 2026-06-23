@@ -1,0 +1,72 @@
+[
+  {
+    "order_id": "ORD-2024-0892",
+    "customer": "Global Tech Solutions Ltd.",
+    "amount": 12400,
+    "stock": "Out of Stock",
+    "email": "procurement@globaltech.com"
+  },
+  {
+    "order_id": "ORD-2024-0895",
+    "customer": "Nordic Logistics AS",
+    "amount": 3200,
+    "stock": "Low Stock",
+    "email": "orders@nordiclogistics.no"
+  },
+  {
+    "order_id": "ORD-2024-0899",
+    "customer": "Pacific Rim Trading Co.",
+    "amount": 8750,
+    "stock": "Out of Stock",
+    "email": "buying@pacificrim.trade"
+  },
+  {
+    "order_id": "ORD-2024-0901",
+    "customer": "EuroParts Distribution GmbH",
+    "amount": 2100,
+    "stock": "Low Stock",
+    "email": "supply@europarts.de"
+  },
+  {
+    "order_id": "ORD-2024-0904",
+    "customer": "Shenzhen Electronics Group",
+    "amount": 15600,
+    "stock": "Out of Stock",
+    "email": "sales@sz-electronics.cn"
+  },
+  {
+    "order_id": "ORD-2024-0907",
+    "customer": "Midwest Supply Chain Inc.",
+    "amount": 4800,
+    "stock": "In Stock",
+    "email": "ops@midwestsupply.com"
+  },
+  {
+    "order_id": "ORD-2024-0910",
+    "customer": "Atlantic Freight Partners",
+    "amount": 6700,
+    "stock": "Out of Stock",
+    "email": "dispatch@atlanticfreight.com"
+  },
+  {
+    "order_id": "ORD-2024-0913",
+    "customer": "Tokyo Industrial Systems",
+    "amount": 1900,
+    "stock": "In Stock",
+    "email": "logistics@tokyo-ind.co.jp"
+  },
+  {
+    "order_id": "ORD-2024-0916",
+    "customer": "Brasilia Componentes SA",
+    "amount": 5300,
+    "stock": "Low Stock",
+    "email": "compras@brasilia-comp.br"
+  },
+  {
+    "order_id": "ORD-2024-0919",
+    "customer": "Dubai Trade Hub LLC",
+    "amount": 9800,
+    "stock": "Out of Stock",
+    "email": "orders@dubaitradehub.ae"
+  }
+]
